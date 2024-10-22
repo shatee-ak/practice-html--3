@@ -1,0 +1,32 @@
+html= hyper  text markup language
+head tag = <head> </head>
+body tag = <body> </body>
+pargraph tag = <p1>-<p6>
+heading tag = <h1> -<h6>
+tittle tag = <tittle> </tittle>
+image tag = <img src="">
+video tag = <inframe> </inframe>
+line brack = <br>
+Anchore tag = <a href="link" target="blank"> </a>
+form filup usaing tag = 
+<label for="">Name :</label>
+<input type="text" name="" id=""value="" placeholder="enter your name"required>
+option selecting tag =<select name="" id=""> +
+<option value="">A+</option>
+html shortcut format = html5:
+order lisiting = <ol> </ol>
+unordered HTML list = <ul> </ul>
+
+CSS = Casecading Style Sheet
+1. Inline CSS
+2. Internal CSS
+3. External CSS
+==============Identifier===========
+1. tag
+2. class
+3. id
+=========Some Special Tags========
+<section></section>
+<div></div>
+<style></style>
+<script></script>
